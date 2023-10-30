@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "998698533897",
+    "project_id": "shift-log-596ab",
+    "storage_bucket": "shift-log-596ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:998698533897:android:8af1ed96111a4a7a2e64d8",
+        "android_client_info": {
+          "package_name": "com.mycompany.shiftlog"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqfvjk65qF8JES87ChG6DxRC9T4KLc_bI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
